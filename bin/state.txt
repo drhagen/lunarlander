@@ -1,0 +1,23 @@
+3
+2
+True
+You
+100
+Olivia
+200
+Amy
+500
+Alison
+1000
+David
+1500
+John Kerry
+1000
+George Bush
+1500
+John Edwards
+2000
+Dick Cheney
+2500
+President Hundert
+3000
